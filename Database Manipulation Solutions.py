@@ -120,7 +120,7 @@ print('THE STANDARD DEVIATION OF ORDERS FROM THE MEAN FOR THE DATASET IS: \n', d
 # In[ ]:
 
 
-#One of my favorite techniques to use is linear regression for prediction modelling. I have been using it since my
+#One of my favorite techniques to use is linear regression for prediction modeling. I have been using it since my
 #econometrics classes in undergraduate school to predict housing prices based on different demographics. I recently 
 #used it for a hobby of mine,fantasy sports. I created a model to predict the probability of players scoring a 
 #certain number of points in a game.I included about 10 different variables as to not overfit the model. 
